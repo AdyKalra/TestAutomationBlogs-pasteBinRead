@@ -92,12 +92,12 @@ All possible Good Testing blogs
 * Realm.io https://realm.io/news/
 
 #### S names
-* Salesforce https://developer.salesforce.com/blogs/engineering/
+* Software Testing Help http://www.softwaretestinghelp.com/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
 
 #### T names
 * The Automated Tester http://www.theautomatedtester.co.uk/
-* Target https://target.github.io/
+* Test Automation For Manual Testers http://test-able.blogspot.com.au/
 
 #### U names
 * Uber http://eng.uber.com/
@@ -125,7 +125,8 @@ All possible Good Testing blogs
 
 #### A individuals
 * Aditya Kalra http://go-gaga-over-testing.blogspot.com.au/
-* Abhinaba Basu http://blogs.msdn.com/b/abhinaba/
+* Alex Siminiuc http://test-able.blogspot.com.au/
+* Alex Siminiuc http://test-able.blogspot.com.au/
 
 #### B individuals
 * Bad Concurrency http://bad-concurrency.blogspot.com/
@@ -204,7 +205,7 @@ All possible Good Testing blogs
 * Undocumented Matlab http://undocumentedmatlab.com/
 
 #### V individuals
-* Vanilla Java http://vanillajava.blogspot.com/
+* Vijay http://www.softwaretestinghelp.com/
 
 #### W individuals
 * Wilfred Hughes http://www.wilfred.me.uk/
