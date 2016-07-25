@@ -1,12 +1,12 @@
 # TestAutomationBlogs
 All possible Good Testing blogs
 
-### [Companies](#companies-1)
+### [Names](#names-1)
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-companies) 	| [A](#a-companies) 	| [B](#b-companies) 	| [C](#c-companies) 	| [D](#d-companies) 	| [E](#e-companies) 	| [F](#f-companies) 	| [G](#g-companies) 	| [H](#h-companies) 	|
-| [I](#i-companies) 	| [J](#j-companies) 	| [K](#k-companies) 	| [L](#l-companies) 	| [M](#m-companies) 	| [N](#n-companies) 	| [O](#o-companies) 	| [P](#p-companies) 	| [Q](#q-companies) 	|
-| [R](#r-companies) 	| [S](#s-companies) 	| [T](#t-companies) 	| [U](#u-companies) 	| [V](#v-companies) 	| [W](#w-companies) 	| [X](#x-companies) 	| [Y](#y-companies) 	| [Z](#z-companies)  	|
+| [#](#-names) 	| [A](#a-names) 	| [B](#b-names) 	| [C](#c-names) 	| [D](#d-names) 	| [E](#e-names) 	| [F](#f-names) 	| [G](#g-names) 	| [H](#h-names) 	|
+| [I](#i-names) 	| [J](#j-names) 	| [K](#k-names) 	| [L](#l-names) 	| [M](#m-names) 	| [N](#n-names) 	| [O](#o-names) 	| [P](#p-names) 	| [Q](#q-names) 	|
+| [R](#r-names) 	| [S](#s-names) 	| [T](#t-names) 	| [U](#u-names) 	| [V](#v-names) 	| [W](#w-names) 	| [X](#x-names) 	| [Y](#y-names) 	| [Z](#z-names)  	|
 
 ### [Individuals/Group Contributors](#individualsgroup-contributors-1)
 |   	|   	|   	|   	|   	|   	|   	|   	|   	|
@@ -15,12 +15,12 @@ All possible Good Testing blogs
 | [I](#i-individuals) 	| [J](#j-individuals) 	| [K](#k-individuals) 	| [L](#l-individuals) 	| [M](#m-individuals) 	| [N](#n-individuals) 	| [O](#o-individuals) 	| [P](#p-individuals) 	| [Q](#q-individuals) 	|
 | [R](#r-individuals) 	| [S](#s-individuals) 	| [T](#t-individuals) 	| [U](#u-individuals) 	| [V](#v-individuals) 	| [W](#w-individuals) 	| [X](#x-individuals) 	| [Y](#y-individuals) 	| [Z](#z-individuals)  	|
 
-### Companies
+### Names
 
-#### \# companies
+#### \# names
 * 8th Light http://blog.8thlight.com/
 
-#### A companies
+#### A names
 * AdRoll http://tech.adroll.com/blog/
 * Advanced Web Machinery https://advancedweb.hu/
 * Adzerk http://adzerk.com/tech/
@@ -40,7 +40,7 @@ All possible Good Testing blogs
 * AWS https://aws.amazon.com/blogs/aws/
 * Azavea http://www.azavea.com/blogs/labs/
 
-#### B companies
+#### B names
 * Badoo https://techblog.badoo.com/
 * Baidu Research http://research.baidu.com/category/baidutechblog/baidu-research-technology/
 * Bandcamp https://bandcamptech.wordpress.com/
@@ -63,7 +63,7 @@ All possible Good Testing blogs
 * Budacode https://blog.budacode.com/
 * Buzzfeed https://www.buzzfeed.com/techblog
 
-#### C companies
+#### C names
 * Canva https://engineering.canva.com
 * Carbon Five http://blog.carbonfive.com/
 * CenturyLink https://www.ctl.io/developers/blog
@@ -88,7 +88,7 @@ All possible Good Testing blogs
 * Coolblue http://devblog.coolblue.nl/
 * Criteo http://engineering.criteolabs.com/
 
-#### D companies
+#### D names
 * Dailymotion http://engineering.dailymotion.com/
 * Data Artisans http://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
@@ -100,7 +100,7 @@ All possible Good Testing blogs
 * Docker https://blog.docker.com/category/engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
-#### E companies
+#### E names
 * Ebay http://www.ebaytechblog.com/
 * eFounders https://medium.com/unexpected-token
 * Eharmony http://www.eharmony.com/engineering/
@@ -111,7 +111,7 @@ All possible Good Testing blogs
 * Evernote https://blog.evernote.com/tech/
 * Evil Martians https://evilmartians.com/chronicles/
 
-#### F companies
+#### F names
 * Facebook https://code.facebook.com/posts/
 * Facebook AI Research https://research.facebook.com/blog/ai/
 * Fiftythree http://making.fiftythree.com/
@@ -124,7 +124,7 @@ All possible Good Testing blogs
 * Funding Circle https://engineering.fundingcircle.com/
 * Future Processing https://www.future-processing.pl/technical-blog/
 
-#### G companies
+#### G names
 * Galois https://galois.com/blog/
 * GameChanger http://tech.gc.com/
 * Gilt http://tech.gilt.com
@@ -141,7 +141,7 @@ All possible Good Testing blogs
 * Guardian https://www.theguardian.com/info/developer-blog
 * Gusto http://engineering.gusto.com/
 
-#### H companies
+#### H names
 * HackerEarth http://engineering.hackerearth.com/
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
@@ -154,7 +154,7 @@ All possible Good Testing blogs
 * HubSpot http://product.hubspot.com/blog/topic/engineering
 * Huddle http://tldr.huddle.com/
 
-#### I companies
+#### I names
 * IFTTT http://engineering.ifttt.com/
 * IMVU http://engineering.imvu.com/
 * Imaginea http://blog.imaginea.com/
@@ -167,12 +167,12 @@ All possible Good Testing blogs
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
 
-#### J companies
+#### J names
 * Jane Street https://blogs.janestreet.com/category/ocaml/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat http://tech.just-eat.com/
 
-#### K companies
+#### K names
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * Kifi http://eng.kifi.com/
@@ -180,7 +180,7 @@ All possible Good Testing blogs
 * Kinvolk https://kinvolk.io/blog/
 * Kogan.com http://devblog.kogan.com/
 
-#### L companies
+#### L names
 * Laterooms http://engineering.laterooms.com/
 * LINE http://developers.linecorp.com/blog/
 * Linkedcare http://blog.linkedcare.com/
@@ -191,7 +191,7 @@ All possible Good Testing blogs
 * Localytics http://eng.localytics.com/
 * Lookout http://hackers.lookout.com/
 
-#### M companies
+#### M names
 * Made Tech https://www.madetech.com/blog
 * Magnet.me https://labs.magnet.me
 * MailChimp http://devs.mailchimp.com/blog/
@@ -211,14 +211,14 @@ All possible Good Testing blogs
 * Myntra http://myntra.github.io/
 * Myntra Data Science http://sartorialscience.myntrablogs.com/
 
-#### N companies
+#### N names
 * Netflix http://techblog.netflix.com/
 * New York Times http://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
 * Nordic APIs http://nordicapis.com/blog/
 * NPR Apps http://blog.apps.npr.org/
 
-#### O companies
+#### O names
 * Okta http://developer.okta.com/blog/
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
@@ -227,7 +227,7 @@ All possible Good Testing blogs
 * Oursky http://code.oursky.com/
 * Oyster http://tech.oyster.com/
 
-#### P companies
+#### P names
 * Panorama Education http://engineering.panoramaed.com/
 * Paperless Post http://dev.paperlesspost.com/
 * Parse http://blog.parse.com/
@@ -240,10 +240,10 @@ All possible Good Testing blogs
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * PullReview http://blog.8thcolor.com/
 
-#### Q companies
+#### Q names
 * Quora https://engineering.quora.com/
 
-#### R companies
+#### R names
 * Raizlabs http://www.raizlabs.com/dev/
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
@@ -255,7 +255,7 @@ All possible Good Testing blogs
 * RisingStack https://blog.risingstack.com/
 * Robert Elder Software http://blog.robertelder.org/
 
-#### S companies
+#### S names
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
 * Scrunch https://tech.scrunch.com/blog/
@@ -286,7 +286,7 @@ All possible Good Testing blogs
 * Stripe https://stripe.com/blog
 * SurveyMonkey https://surveymonkeycodes.com
 
-#### T companies
+#### T names
 * Takipi http://blog.takipi.com/
 * Target https://target.github.io/
 * TaskRabbit http://tech.taskrabbit.com/
@@ -307,10 +307,10 @@ All possible Good Testing blogs
 * Twilio https://www.twilio.com/engineering/
 * Twitter https://blog.twitter.com/engineering
 
-#### U companies
+#### U names
 * Uber http://eng.uber.com/
 
-#### V companies
+#### V names
 * Vena Solutions https://engineering.vena.io/
 * Venmo http://blog.venmo.com/?category=Engineering
 * VersionEye http://blog.versioneye.com/
@@ -321,7 +321,7 @@ All possible Good Testing blogs
 * Vinted http://engineering.vinted.com/
 * VNGRS http://blog.vngrs.com/
 
-#### W companies
+#### W names
 * Warby Parker http://www.theoculists.com/
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
@@ -336,15 +336,15 @@ All possible Good Testing blogs
 * WSO2 http://wso2.com/library/
 * WyeWorks https://wyeworks.com/blog/
 
-#### X companies
+#### X names
 * XING https://devblog.xing.com/
 
-#### Y companies
+#### Y names
 * Yahoo http://yahooeng.tumblr.com/
 * Yelp http://engineeringblog.yelp.com/
 * YLD! http://blog.yld.io
 
-#### Z companies
+#### Z names
 * Zalando https://tech.zalando.com/blog/
 * Zendesk https://developer.zendesk.com/blog
 * Zenefits https://engineering.zenefits.com/posts/
