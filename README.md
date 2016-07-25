@@ -640,13 +640,9 @@ All possible Good Testing blogs
 
 ----
 
-# RSS feeds
-
-You can find an opml file to import rss feeds here: [engineering_blogs.opml](./engineering_blogs.opml)
-
 # Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! 
 
 # License
 
