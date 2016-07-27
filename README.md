@@ -41,6 +41,7 @@ All possible Good Testing blogs
 #### A names
 * Adventures in Automation http://www.tjmaher.com/
 * Agile Testing http://agiletesting.blogspot.com.au/
+* All Things Quality http://www.allthingsquality.com/
 
 #### B names
 * Binary Clips http://www.binaryclips.com/
@@ -49,6 +50,8 @@ All possible Good Testing blogs
 #### C names
 * Chris McMahon http://chrismcmahonsblog.blogspot.com.au/
 * Corey Goldberg http://coreygoldberg.blogspot.com.au/
+* Curious Tester http://curioustester.blogspot.com.au/
+* Cartoon Tester http://cartoontester.blogspot.com.au/
 
 #### D names
 * Dailymotion http://engineering.dailymotion.com/
@@ -57,6 +60,8 @@ All possible Good Testing blogs
 #### E names
 * Exploration Through Example http://www.exampler.com/blog/
 * eFounders https://medium.com/unexpected-token
+* Enjoy Testing http://enjoytesting.blogspot.com.au/
+* Evil Tester http://blog.eviltester.com/
 
 #### F names
 * Facebook https://code.facebook.com/posts/
@@ -76,7 +81,7 @@ All possible Good Testing blogs
 
 #### J names
 * Joe Contonio https://www.joecolantonio.com/
-* Jolly Good Code https://jollygoodcode.github.io/
+* Jonathan Kohl http://www.kohl.ca/blog/ 
 
 #### K names
 * Khan Academy http://engineering.khanacademy.org
@@ -89,6 +94,8 @@ All possible Good Testing blogs
 #### M names
 * Martin Fowler http://martinfowler.com/
 * Misko Hevery http://misko.hevery.com/
+* Maverick Tester http://mavericktester.com/
+* Markus Gärtner http://www.shino.de/blog/
 
 #### N names
 * Nadims Blog http://nadimsaker.blogspot.com.au/
@@ -121,6 +128,7 @@ All possible Good Testing blogs
 * Tester Tested http://testertested.blogspot.com.au/
 * Test Obsessed http://testobsessed.com/
 * Thinking Tester http://shrinik.blogspot.com.au/
+* Tooth of the Weasel http://angryweasel.com/blog/
 
 #### U names
 * Uber http://eng.uber.com/
@@ -150,6 +158,11 @@ All possible Good Testing blogs
 * Aditya Kalra http://go-gaga-over-testing.blogspot.com.au/
 * Alex Siminiuc http://test-able.blogspot.com.au/
 * Alex Siminiuc http://test-able.blogspot.com.au/
+* Ajay Balamurugandas http://enjoytesting.blogspot.com.au/
+* Alan Richardson http://blog.eviltester.com/
+* Alan Page and Brent http://angryweasel.com/blog/
+* Anne-Marie Charrett http://mavericktester.com/
+* Andy Glover http://cartoontester.blogspot.com.au/
 
 #### B individuals
 * Bas http://www.ontestautomation.com/
@@ -186,6 +199,8 @@ All possible Good Testing blogs
 #### J individuals
 * James Bach http://www.satisfice.com/
 * Joe Contonio https://www.joecolantonio.com/
+* Jonathan Kohl http://www.kohl.ca/blog/
+* Joe Strazzere http://www.allthingsquality.com/
 
 #### K individuals
 * K. Harrison http://useyourloaf.com/
@@ -199,6 +214,7 @@ All possible Good Testing blogs
 * Martin Fowler http://martinfowler.com/
 * Mohammad Saad http://www.binaryclips.com/
 * Misko Hevery http://misko.hevery.com/
+* Markus Gärtner http://www.shino.de/blog/
 
 #### N individuals
 * Nadim Saker http://nadimsaker.blogspot.com.au/
@@ -210,7 +226,7 @@ All possible Good Testing blogs
 
 #### P individuals
 * Pradeep Soundararajan http://testertested.blogspot.com.au/
-* Pat Shaughnessy http://patshaughnessy.net/
+* Parimala Hariprasad http://curioustester.blogspot.com.au/
 
 #### R individuals
 * Rachel Kroll https://rachelbythebay.com/w/
