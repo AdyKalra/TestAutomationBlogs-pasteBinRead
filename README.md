@@ -55,12 +55,9 @@ All possible Good Testing blogs
 * Cartoon Tester http://cartoontester.blogspot.com.au/
 
 #### D names
-* Dailymotion http://engineering.dailymotion.com/
-* Data Artisans http://data-artisans.com/blog/
 
 #### E names
 * Exploration Through Example http://www.exampler.com/blog/
-* eFounders https://medium.com/unexpected-token
 * Enjoy Testing http://enjoytesting.blogspot.com.au/
 * Evil Tester http://blog.eviltester.com/
 
@@ -81,7 +78,7 @@ All possible Good Testing blogs
 * IMVU http://engineering.imvu.com/
 
 #### J names
-* Joe Contonio https://www.joecolantonio.com/
+* Joe Colantonio https://www.joecolantonio.com/
 * Jonathan Kohl http://www.kohl.ca/blog/
 * James D. McCaffrey https://jamesmccaffrey.wordpress.com/
 
