@@ -42,6 +42,7 @@ All possible Good Testing blogs
 * Adventures in Automation http://www.tjmaher.com/
 * Agile Testing http://agiletesting.blogspot.com.au/
 * All Things Quality http://www.allthingsquality.com/
+* Agile Testing with Lisa Crispin  http://lisacrispin.com/
 
 #### B names
 * Binary Clips http://www.binaryclips.com/
@@ -81,21 +82,22 @@ All possible Good Testing blogs
 
 #### J names
 * Joe Contonio https://www.joecolantonio.com/
-* Jonathan Kohl http://www.kohl.ca/blog/ 
+* Jonathan Kohl http://www.kohl.ca/blog/
+* James D. McCaffrey https://jamesmccaffrey.wordpress.com/
 
 #### K names
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 
 #### L names
-* Laterooms http://engineering.laterooms.com/
-* LINE http://developers.linecorp.com/blog/
+* Len DiMaggio's (mostly) Software Testing Weblog http://swqetesting.blogspot.com.au/
 
 #### M names
 * Martin Fowler http://martinfowler.com/
 * Misko Hevery http://misko.hevery.com/
 * Maverick Tester http://mavericktester.com/
 * Markus Gärtner http://www.shino.de/blog/
+* Mega Ultra Super Happy Software Testing Fun Time http://testingfuntime.blogspot.com.au/
 
 #### N names
 * Nadims Blog http://nadimsaker.blogspot.com.au/
@@ -111,6 +113,7 @@ All possible Good Testing blogs
 
 #### Q names
 * QA Automation Notes http://qa-automation-notes.blogspot.com.au/
+* QA hates you http://qahatesyou.com/wordpress/
 
 #### R names
 * Raizlabs http://www.raizlabs.com/dev/
@@ -129,6 +132,11 @@ All possible Good Testing blogs
 * Test Obsessed http://testobsessed.com/
 * Thinking Tester http://shrinik.blogspot.com.au/
 * Tooth of the Weasel http://angryweasel.com/blog/
+* Test To Tester http://testtotester.blogspot.com.au/
+* The Pragmatist https://testingideas.wordpress.com/
+* Testing Minded http://www.testingminded.com/
+* The Daily wtf http://thedailywtf.com/Default.aspx
+* Test Side Story https://testsidestory.wordpress.com/
 
 #### U names
 * Uber http://eng.uber.com/
@@ -163,6 +171,7 @@ All possible Good Testing blogs
 * Alan Page and Brent http://angryweasel.com/blog/
 * Anne-Marie Charrett http://mavericktester.com/
 * Andy Glover http://cartoontester.blogspot.com.au/
+* Alex Papadimoulis http://thedailywtf.com/Default.aspx
 
 #### B individuals
 * Bas http://www.ontestautomation.com/
@@ -201,14 +210,15 @@ All possible Good Testing blogs
 * Joe Contonio https://www.joecolantonio.com/
 * Jonathan Kohl http://www.kohl.ca/blog/
 * Joe Strazzere http://www.allthingsquality.com/
+* James D. McCaffrey https://jamesmccaffrey.wordpress.com/
 
 #### K individuals
 * K. Harrison http://useyourloaf.com/
 * Kevin Burke https://kev.inburke.com/
 
 #### L individuals
-* Lambda the Ultimate http://lambda-the-ultimate.org/
-* Larry Land http://lg.io/
+* Len DiMaggio's (mostly) Software Testing Weblog http://swqetesting.blogspot.com.au/
+* Lisa Crispin http://lisacrispin.com/ 
 
 #### M individuals
 * Martin Fowler http://martinfowler.com/
@@ -229,17 +239,19 @@ All possible Good Testing blogs
 * Parimala Hariprasad http://curioustester.blogspot.com.au/
 
 #### R individuals
-* Rachel Kroll https://rachelbythebay.com/w/
-* Radek Pazdera http://radek.io
+* Rosie Hamilton http://testingfuntime.blogspot.com.au/
 
 #### S individuals
 * Sergey Korol http://qa-automation-notes.blogspot.com.au/
 * Sergey Kuts http://qa-automation-notes.blogspot.com.au/
 * Shrini Kulkarni http://shrinik.blogspot.com.au/
+* Sharath Byregowda http://testtotester.blogspot.com.au/
+* Steven Machtelinckx http://www.testingminded.com/
 
 #### T individuals
 * T.J. Maher http://www.tjmaher.com/
 * Trish http://trishkhoo.com/
+* The Director http://qahatesyou.com/wordpress/
 
 #### U individuals
 * Una Kravets http://una.im/
@@ -257,8 +269,7 @@ All possible Good Testing blogs
 * Yifan Lu http://yifan.lu/
 
 #### Z individuals
-* Zach Holman https://zachholman.com/
-* Zolmeister https://zolmeister.com/
+* Zeger https://testsidestory.wordpress.com/
 
 -------------------------------------------------
 
