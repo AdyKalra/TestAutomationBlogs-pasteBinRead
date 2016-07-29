@@ -50,6 +50,8 @@ All possible Good Testing blogs
 * Adventures in QA http://adventuresinqa.com/
 * Arborosa https://arborosa.org/
 * Ask Tester http://www.asktester.com/
+* A Seasoned Tester's Crystal Ball http://visible-quality.blogspot.com.au/
+* 	A Sisyphean Task http://www.a-sisyphean-task.com/
 
 #### B names
 * Binary Clips http://www.binaryclips.com/
@@ -60,10 +62,14 @@ All possible Good Testing blogs
 * Corey Goldberg http://coreygoldberg.blogspot.com.au/
 * Curious Tester http://curioustester.blogspot.com.au/
 * Cartoon Tester http://cartoontester.blogspot.com.au/
+* Creative Tester http://anujmagazine.blogspot.com.au/
+* Creative Chaos http://xndev.com/creative-chaos
 
 #### D names
-DevelopSense http://www.developsense.com/blog/
-Derk-Jan de Grood https://djdegrood.wordpress.com/
+* DevelopSense http://www.developsense.com/blog/
+* Derk-Jan de Grood https://djdegrood.wordpress.com/
+* Duncan Nisbet http://www.duncannisbet.co.uk/blog
+* DanAshby04 https://danashby.co.uk/
 
 #### E names
 * Exploration Through Example http://www.exampler.com/blog/
@@ -79,15 +85,20 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Go Gaga over testing http://go-gaga-over-testing.blogspot.com.au/
 * Gojko https://gojko.net/
 * Gerrard's blog http://blog.gerrardconsulting.com/
+* Geek Out of Water http://www.gilzilberfeld.com/blog-2
 
 #### H names
 * HackerEarth http://engineering.hackerearth.com/
 * Harry's http://engineering.harrys.com/
+* Hiccupps http://qahiccupps.blogspot.com.au/
+* Pekka Marjamäki http://how-do-i-test.blogspot.com.au/
 
 #### I names
 * IFTTT http://engineering.ifttt.com/
 * IMVU http://engineering.imvu.com/
 * Is There A Problem Here? http://blog.isthereaproblemhere.com/
+* Illiteration – Testing times in Software Testing http://www.software-testing.com.au/blog/
+* iTesting https://itesting.com.au/
 
 #### J names
 * Joe Colantonio https://www.joecolantonio.com/
@@ -112,18 +123,22 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * My Technology Fetish http://www.mytechfetish.com/
 * Magnifiant http://www.huibschoots.nl/wordpress
 * Marlena's Blog http://marlenacompton.com/
+* Martial Tester https://martialtester.wordpress.com/
 
 #### N names
 * Nadims Blog http://nadimsaker.blogspot.com.au/
 * New York Times http://open.blogs.nytimes.com
+* Nicky Tests Software http://nickytests.blogspot.com.au/
 
 #### O names
 * On Test Automation http://www.ontestautomation.com/
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
+* Outspoken Hobbit http://outspokenhobbit.blogspot.com.au/
 
 #### P names
 * Panorama Education http://engineering.panoramaed.com/
 * Paperless Post http://dev.paperlesspost.com/
+* Pragmatic Testing http://www.dogmatictesting.com/
 
 #### Q names
 * QA Automation Notes http://qa-automation-notes.blogspot.com.au/
@@ -134,11 +149,15 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Raizlabs http://www.raizlabs.com/dev/
 * Realm.io https://realm.io/news/
 * Rosie Land http://rosiesherry.com/
+* Randy Rice's Software Testing & Quality Blog http://randallrice.blogspot.com.au/
 
 #### S names
 * Software Testing Help http://www.softwaretestinghelp.com/
 * Satisfice http://www.satisfice.com/
 * Secrets of Consulting http://secretsofconsulting.blogspot.com.au/
+* simonsaysnomore https://simonsaysnomore.wordpress.com/
+* Stephen Janaway http://stephenjanaway.co.uk/stephenjanaway/blog/
+* Software test and engineering https://blog.asym.dk/
 
 #### T names
 * The Automated Tester http://www.theautomatedtester.co.uk/
@@ -159,6 +178,12 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Testing Observations http://www.ilari.com/blog/
 * Testing Diaries http://www.testingdiaries.com/ 
 * Testeando Software http://testeandosoftware.com/
+* SpriteCloud blog http://www.spritecloud.com/blog
+* Test Adventures http://erik.brickarp.se/
+* Testing the Mind https://testingthemind.wordpress.com/
+* The expected result was 42 http://steveo1967.blogspot.com.au/
+* The Testing Curve https://testingcurve.wordpress.com/
+* Thoughts on Software Testing http://godtesen-on-test.blogspot.com.au/
 
 
 #### U names
@@ -196,6 +221,10 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Anne-Marie Charrett http://mavericktester.com/
 * Andy Glover http://cartoontester.blogspot.com.au/
 * Alex Papadimoulis http://thedailywtf.com/Default.aspx
+* Adam Knight http://www.a-sisyphean-task.com/
+* Anuj Magazine http://anujmagazine.blogspot.com.au/
+* Amy Phillips https://testingthemind.wordpress.com/
+* Anders Dinsen https://blog.asym.dk/
 
 #### B individuals
 * Bas http://www.ontestautomation.com/
@@ -206,6 +235,7 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Chris McMahon http://chrismcmahonsblog.blogspot.com.au/
 * Corey Goldberg http://coreygoldberg.blogspot.com.au/
 * Chris Kenst http://www.mytechfetish.com/
+* Collin Cherry https://itesting.com.au/ 
 
 #### D individuals
 * David Burns http://www.theautomatedtester.co.uk/
@@ -213,10 +243,14 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Daniel Knott http://adventuresinqa.com/
 * Dhanasekar S https://testingideas.wordpress.com/
 * Derk-Jan Grood https://djdegrood.wordpress.com/
+* David Greenlees https://martialtester.wordpress.com/
+* Duncan Nisbet http://www.duncannisbet.co.uk/blog
+* Dan Ashby https://danashby.co.uk/
 
 #### E individuals
 * Eric Jacobson http://www.testthisblog.com/
 * Elisabeth Hendrickson http://testobsessed.com/
+* Erik Brickarp http://erik.brickarp.se/
 
 #### F individuals
 * Fabrizio Branca http://fbrnc.net/
@@ -226,6 +260,8 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Grig Gheorghiu http://agiletesting.blogspot.com.au/
 * Gojko Adzic https://gojko.net/
 * Gerald M. Weinberg http://secretsofconsulting.blogspot.com.au/
+* Gil Zilberfeld http://www.gilzilberfeld.com/blog-2
+* Gitte Ottosen http://godtesen-on-test.blogspot.com.au/
 
 #### H individuals
 * High Scalability http://highscalability.com/
@@ -238,7 +274,7 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Ilari Henrik Aegerter http://www.ilari.com/blog/
 * Iain McCowatt http://exploringuncertainty.com/blog/
 
-#### J individualsp
+#### J individuals
 * James Bach http://www.satisfice.com/
 * Joe Contonio https://www.joecolantonio.com/
 * Jonathan Kohl http://www.kohl.ca/blog/
@@ -246,6 +282,10 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * James D. McCaffrey https://jamesmccaffrey.wordpress.com/
 * Jean-Paul Varwijk https://arborosa.org/
 * James Christie https://clarotesting.wordpress.com/
+* Jared Quinert http://www.software-testing.com.au/blog/
+* James Thomas http://qahiccupps.blogspot.com.au/
+* John Stevenson http://steveo1967.blogspot.com.au/
+* Joep Schuurkes https://testingcurve.wordpress.com/
 
 #### K individuals
 * K. Harrison http://useyourloaf.com/
@@ -264,14 +304,18 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Michael Larsen http://www.mkltesthead.com/
 * Marlena Compton http://marlenacompton.com/
 * Maharshi Shah http://www.testingdiaries.com/
+* Maaret Pyhäjärvi http://visible-quality.blogspot.com.au/
+* Matthew Heusser http://xndev.com/creative-chaos
 
 #### N individuals
 * Nadim Saker http://nadimsaker.blogspot.com.au/
 * Nic Raboy https://blog.nraboy.com/
+* Nicola Owen http://nickytests.blogspot.com.au/
 
 #### O individuals
 * Ole Begemann http://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
+* Pekka Marjamäki http://how-do-i-test.blogspot.com.au/
 
 #### P individuals
 * Pradeep Soundararajan http://testertested.blogspot.com.au/
@@ -282,6 +326,8 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Rosie Hamilton http://testingfuntime.blogspot.com.au/
 * Rosie Sherry	http://rosiesherry.com/
 * Raúl Hernández http://testeandosoftware.com/
+* Randall Rice http://randallrice.blogspot.com.au/
+* Rajesh Mathur http://www.dogmatictesting.com/
 
 #### S individuals
 * Sergey Korol http://qa-automation-notes.blogspot.com.au/
@@ -289,7 +335,8 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Shrini Kulkarni http://shrinik.blogspot.com.au/
 * Sharath Byregowda http://testtotester.blogspot.com.au/
 * Steven Machtelinckx http://www.testingminded.com/
- 
+* Simon Schrijver https://simonsaysnomore.wordpress.com/
+* Stephen Janaway http://stephenjanaway.co.uk/stephenjanaway/blog/
 
 #### T individuals
 * T.J. Maher http://www.tjmaher.com/
@@ -308,6 +355,7 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 #### W individuals
 * Wilfred Hughes http://www.wilfred.me.uk/
 * William Kennedy http://www.goinggo.net/
+* Will Yates http://outspokenhobbit.blogspot.com.au/
 
 #### Y individuals
 * Yegor Bugayenko http://www.yegor256.com/
