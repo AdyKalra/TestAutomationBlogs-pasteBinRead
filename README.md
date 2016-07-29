@@ -157,6 +157,8 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Test Head http://www.mkltesthead.com/
 * Thoughts from the test eye http://thetesteye.com/blog/
 * Testing Observations http://www.ilari.com/blog/
+* Testing Diaries http://www.testingdiaries.com/ 
+* Testeando Software http://testeandosoftware.com/
 
 
 #### U names
@@ -261,6 +263,7 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Michael Bolton http://www.developsense.com/blog/
 * Michael Larsen http://www.mkltesthead.com/
 * Marlena Compton http://marlenacompton.com/
+* Maharshi Shah http://www.testingdiaries.com/
 
 #### N individuals
 * Nadim Saker http://nadimsaker.blogspot.com.au/
@@ -278,6 +281,7 @@ Derk-Jan de Grood https://djdegrood.wordpress.com/
 #### R individuals
 * Rosie Hamilton http://testingfuntime.blogspot.com.au/
 * Rosie Sherry	http://rosiesherry.com/
+* Raúl Hernández http://testeandosoftware.com/
 
 #### S individuals
 * Sergey Korol http://qa-automation-notes.blogspot.com.au/
