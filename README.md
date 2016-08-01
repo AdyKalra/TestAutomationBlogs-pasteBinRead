@@ -51,7 +51,8 @@ All possible Good Testing blogs
 * Arborosa https://arborosa.org/
 * Ask Tester http://www.asktester.com/
 * A Seasoned Tester's Crystal Ball http://visible-quality.blogspot.com.au/
-* 	A Sisyphean Task http://www.a-sisyphean-task.com/
+* A Sisyphean Task http://www.a-sisyphean-task.com/
+* About98PercentDone http://about98percentdone.blogspot.com.au/
 
 #### B names
 * Binary Clips http://www.binaryclips.com/
@@ -64,12 +65,16 @@ All possible Good Testing blogs
 * Cartoon Tester http://cartoontester.blogspot.com.au/
 * Creative Tester http://anujmagazine.blogspot.com.au/
 * Creative Chaos http://xndev.com/creative-chaos
+* Curiousity killed the cat https://mkedemo.wordpress.com/
+* Counterfactuals http://www.revelutions.com/counterfactuals/
+* Chronicles Of Testing http://chroniclesoftesting.blogspot.com.au/
 
 #### D names
 * DevelopSense http://www.developsense.com/blog/
 * Derk-Jan de Grood https://djdegrood.wordpress.com/
 * Duncan Nisbet http://www.duncannisbet.co.uk/blog
 * DanAshby04 https://danashby.co.uk/
+* Danny Dainton https://dannydainton.com/
 
 #### E names
 * Exploration Through Example http://www.exampler.com/blog/
@@ -110,6 +115,7 @@ All possible Good Testing blogs
 #### K names
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
+* 	Katrina the Tester http://katrinatester.blogspot.com.au/
 
 #### L names
 * Len DiMaggio's (mostly) Software Testing Weblog http://swqetesting.blogspot.com.au/
@@ -124,6 +130,8 @@ All possible Good Testing blogs
 * Magnifiant http://www.huibschoots.nl/wordpress
 * Marlena's Blog http://marlenacompton.com/
 * Martial Tester https://martialtester.wordpress.com/
+* Mostly Testing http://www.mostly-testing.co.uk/
+* Mindful tester http://www.mindfultester.com/
 
 #### N names
 * Nadims Blog http://nadimsaker.blogspot.com.au/
@@ -139,6 +147,8 @@ All possible Good Testing blogs
 * Panorama Education http://engineering.panoramaed.com/
 * Paperless Post http://dev.paperlesspost.com/
 * Pragmatic Testing http://www.dogmatictesting.com/
+* Perze Ababa http://perze.blogspot.com/
+* Patterns of Proof https://patternsofproof.wordpress.com/
 
 #### Q names
 * QA Automation Notes http://qa-automation-notes.blogspot.com.au/
@@ -158,6 +168,7 @@ All possible Good Testing blogs
 * simonsaysnomore https://simonsaysnomore.wordpress.com/
 * Stephen Janaway http://stephenjanaway.co.uk/stephenjanaway/blog/
 * Software test and engineering https://blog.asym.dk/
+* Seth Eliot's Blog http://www.setheliot.com/blog/blog/
 
 #### T names
 * The Automated Tester http://www.theautomatedtester.co.uk/
@@ -184,7 +195,17 @@ All possible Good Testing blogs
 * The expected result was 42 http://steveo1967.blogspot.com.au/
 * The Testing Curve https://testingcurve.wordpress.com/
 * Thoughts on Software Testing http://godtesen-on-test.blogspot.com.au/
-
+* TestSheepNZ http://testsheepnz.blogspot.com.au/
+* Testing FTW http://testing4tw.blogspot.com.au/
+* Testing Testing 3 2 1 http://www.testingtesting321.com/
+* Testing is believing http://testingisbelieving.blogspot.com.au/
+* Testing the Waterhouse http://www.testingthewaterhouse.com/
+* Test Pappy https://testpappy.wordpress.com/
+* Tales of a fellow tester http://jokinaspiazu.blogspot.com.au/
+* The Test Doctor https://thetestdoctor.wordpress.com/
+* Testknight http://www.testknight.de/
+* Testing Bites http://www.tnridgeback.com/
+* The Pain and Gain of Edward Bearhttps://thepainandgainofedwardbear.wordpress.com/
 
 #### U names
 * Uber http://eng.uber.com/
@@ -225,6 +246,8 @@ All possible Good Testing blogs
 * Anuj Magazine http://anujmagazine.blogspot.com.au/
 * Amy Phillips https://testingthemind.wordpress.com/
 * Anders Dinsen https://blog.asym.dk/
+* Ash Winter http://testingisbelieving.blogspot.com.au/
+* A Tester Being http://atesterbeing.blogspot.com.au/
 
 #### B individuals
 * Bas http://www.ontestautomation.com/
@@ -236,6 +259,8 @@ All possible Good Testing blogs
 * Corey Goldberg http://coreygoldberg.blogspot.com.au/
 * Chris Kenst http://www.mytechfetish.com/
 * Collin Cherry https://itesting.com.au/ 
+* Christian Kram http://www.testknight.de/
+* Chris George http://www.mostly-testing.co.uk/
 
 #### D individuals
 * David Burns http://www.theautomatedtester.co.uk/
@@ -246,6 +271,9 @@ All possible Good Testing blogs
 * David Greenlees https://martialtester.wordpress.com/
 * Duncan Nisbet http://www.duncannisbet.co.uk/blog
 * Dan Ashby https://danashby.co.uk/
+* Daniel Donbavand http://www.testingtesting321.com/
+* Danny Dainton https://dannydainton.com/
+* Dan Billing https://thetestdoctor.wordpress.com/
 
 #### E individuals
 * Eric Jacobson http://www.testthisblog.com/
@@ -262,17 +290,21 @@ All possible Good Testing blogs
 * Gerald M. Weinberg http://secretsofconsulting.blogspot.com.au/
 * Gil Zilberfeld http://www.gilzilberfeld.com/blog-2
 * Gitte Ottosen http://godtesen-on-test.blogspot.com.au/
+* Gareth Waterhouse http://www.testingthewaterhouse.com/
 
 #### H individuals
 * High Scalability http://highscalability.com/
 * Huon Wilson http://huonw.github.io/
 * Huib Schoots http://www.huibschoots.nl/wordpress
+* Helena Jeret Mae https://thepainandgainofedwardbear.wordpress.com/
+* Han Toan Lim http://www.mindfultester.com/
 
 #### I individuals
 * Ian Hummel https://themodernlife.github.io/
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
 * Ilari Henrik Aegerter http://www.ilari.com/blog/
 * Iain McCowatt http://exploringuncertainty.com/blog/
+* Isaac Howard, JCD http://about98percentdone.blogspot.com.au/
 
 #### J individuals
 * James Bach http://www.satisfice.com/
@@ -286,10 +318,15 @@ All possible Good Testing blogs
 * James Thomas http://qahiccupps.blogspot.com.au/
 * John Stevenson http://steveo1967.blogspot.com.au/
 * Joep Schuurkes https://testingcurve.wordpress.com/
+* Jyothi Rangaiah http://chroniclesoftesting.blogspot.com.au/
+* Jokin Aspiazu http://jokinaspiazu.blogspot.com.au/
+* Jayshree http://atesterbeing.blogspot.com.au/
+* Joris Meerts https://patternsofproof.wordpress.com/
 
 #### K individuals
 * K. Harrison http://useyourloaf.com/
 * Kevin Burke https://kev.inburke.com/
+* Katrina Clokie http://katrinatester.blogspot.com.au/
 
 #### L individuals
 * Len DiMaggio's (mostly) Software Testing Weblog http://swqetesting.blogspot.com.au/
@@ -306,11 +343,16 @@ All possible Good Testing blogs
 * Maharshi Shah http://www.testingdiaries.com/
 * Maaret Pyhäjärvi http://visible-quality.blogspot.com.au/
 * Matthew Heusser http://xndev.com/creative-chaos
+* Mike Talks http://testsheepnz.blogspot.com.au/
+* Maria Kedemo https://mkedemo.wordpress.com/
+* Mikkel Korsgaard, Nicolai L. Nielsen http://testing4tw.blogspot.com.au/
+* Michael Corum http://www.tnridgeback.com/
 
 #### N individuals
 * Nadim Saker http://nadimsaker.blogspot.com.au/
 * Nic Raboy https://blog.nraboy.com/
 * Nicola Owen http://nickytests.blogspot.com.au/
+* Nilanjan Bhattacharya http://www.revelutions.com/counterfactuals/
 
 #### O individuals
 * Ole Begemann http://oleb.net/blog/
@@ -321,6 +363,8 @@ All possible Good Testing blogs
 * Pradeep Soundararajan http://testertested.blogspot.com.au/
 * Parimala Hariprasad http://curioustester.blogspot.com.au/
 * Paul Gerrard http://blog.gerrardconsulting.com/
+* Perze Ababa http://perze.blogspot.com/
+* Patrick Prill https://testpappy.wordpress.com/
 
 #### R individuals
 * Rosie Hamilton http://testingfuntime.blogspot.com.au/
@@ -337,6 +381,7 @@ All possible Good Testing blogs
 * Steven Machtelinckx http://www.testingminded.com/
 * Simon Schrijver https://simonsaysnomore.wordpress.com/
 * Stephen Janaway http://stephenjanaway.co.uk/stephenjanaway/blog/
+* Seth Eliot's http://www.setheliot.com/blog/blog/
 
 #### T individuals
 * T.J. Maher http://www.tjmaher.com/
