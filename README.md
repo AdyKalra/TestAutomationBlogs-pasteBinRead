@@ -235,7 +235,6 @@ All possible Good Testing blogs
 #### A individuals
 * Aditya Kalra http://go-gaga-over-testing.blogspot.com.au/
 * Alex Siminiuc http://test-able.blogspot.com.au/
-* Alex Siminiuc http://test-able.blogspot.com.au/
 * Ajay Balamurugandas http://enjoytesting.blogspot.com.au/
 * Alan Richardson http://blog.eviltester.com/
 * Alan Page and Brent http://angryweasel.com/blog/
