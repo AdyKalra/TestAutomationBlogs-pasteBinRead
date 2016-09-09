@@ -1,4 +1,4 @@
-# Testing & TestAutomationBlogs
+# Testing & TestAutomation Blogs
 All possible Good Testing blogs
 
 ### [Names](#names-1)
